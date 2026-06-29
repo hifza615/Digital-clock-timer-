@@ -1,5 +1,5 @@
   
-   
+     
 setInterval(function(){
 
   var timer = document.getElementById("timer");
